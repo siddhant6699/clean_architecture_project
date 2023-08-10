@@ -1,5 +1,4 @@
 import 'package:clean_architecture_project/features/authentication/data/data_source/auth_data_source.dart';
-import 'package:clean_architecture_project/features/authentication/domain/entity/auth_entity.dart';
 import 'package:clean_architecture_project/features/authentication/domain/repository/auth_repository.dart';
 
 class AuthRepositoryImplementation extends AuthRepository {
